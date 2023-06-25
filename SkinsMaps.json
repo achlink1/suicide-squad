@@ -1,4 +1,207 @@
-	
-AdsController	{…}
-Skins	[…]
-AppsPromote	[…]
+{
+  "AdsController": {
+      
+    "AdNetwork"              : "admob",
+    
+    "AdMob_ID"               : "",
+    "AdMob_Banner"           : "",
+    "AdMob_InterstitialAd"   : "",
+    "AdMob_RewardAd"         : "",
+    "AdMob_Native"           : "",
+    
+    "Applovin_Banner"        : "",
+    "Applovin_InterstitialAd": "",
+    "Applovin_RewardAd"      : "",
+    "Applovin_Native"        : "",
+
+    "Unity_GameID"           : "4076527",
+    "Unity_Banner"           : "BannerAd",
+    "Unity_InterstitialAd"   : "InterstitialAd",
+    "Unity_RewardAd"         : "rewardedVideo",
+    
+    "IronSourceKey"          : ""
+  },
+  
+  "Skins" :[
+      {
+          "preview": "https://www.minecraftskins.com/uploads/preview-skins/2022/12/31/corrupted-huggy-wuggy--phase-1--21193192.png",
+          "texture": "https://www.minecraftskins.com/uploads/skins/2022/12/31/corrupted-huggy-wuggy--phase-1--21193192.png",
+          "locked" : false
+      },
+    
+    
+    {
+          "preview": "https://www.minecraftskins.com/uploads/preview-skins/2023/04/08/----elemental-hunter-----pvp-skin-21496894.png?v560",
+          "texture": "https://www.minecraftskins.com/uploads/preview-skins/2023/04/08/----elemental-hunter-----pvp-skin-21496894.png?v560",
+          "locked" : false
+      },
+    
+    {
+          "preview": "https://www.minecraftskins.com/uploads/preview-skins/2023/04/02/super-duper-deff-not-emo-hoodie-dude----21480479.png?v560",
+          "texture": "https://www.minecraftskins.com/uploads/preview-skins/2023/04/02/super-duper-deff-not-emo-hoodie-dude----21480479.png?v560",
+          "locked" : false
+      },
+    
+    {
+          "preview": "https://www.minecraftskins.com/uploads/preview-skins/2023/04/13/mario-21512304.png?v560",
+          "texture": "https://www.minecraftskins.com/uploads/preview-skins/2023/04/13/mario-21512304.png?v560",
+          "locked" : false
+      },
+    
+    {
+          "preview": "https://www.minecraftskins.com/uploads/preview-skins/2023/04/11/black-hole--different-mask--21506072.png?v560",
+          "texture": "https://www.minecraftskins.com/uploads/preview-skins/2023/04/11/black-hole--different-mask--21506072.png?v560",
+          "locked" : false
+      },
+    
+    {
+          "preview": "https://www.minecraftskins.com/uploads/preview-skins/2023/04/15/globe-man-21518511.png?v560",
+          "texture": "https://www.minecraftskins.com/uploads/preview-skins/2023/04/15/globe-man-21518511.png?v560",
+          "locked" : false
+      },
+    
+    {
+          "preview": "https://www.minecraftskins.com/uploads/preview-skins/2023/04/13/luigi-21512288.png?v560",
+          "texture": "https://www.minecraftskins.com/uploads/preview-skins/2023/04/13/luigi-21512288.png?v560",
+          "locked" : false
+      },
+    
+    
+    {
+          "preview": "https://www.minecraftskins.com/uploads/preview-skins/2023/04/13/behind-the-mask-21512374.png?v560",
+          "texture": "https://www.minecraftskins.com/uploads/preview-skins/2023/04/13/behind-the-mask-21512374.png?v560",
+          "locked" : false
+      },
+    
+    {
+          "preview": "https://www.minecraftskins.com/uploads/preview-skins/2023/04/14/miles-morales--itsv--21513882.png?v560",
+          "texture": "https://www.minecraftskins.com/uploads/preview-skins/2023/04/14/miles-morales--itsv--21513882.png?v560",
+          "locked" : false
+      },
+    {
+          "preview": "https://www.minecraftskins.com/uploads/preview-skins/2023/04/13/seymour-skinner-21510965.png?v560",
+          "texture": "https://www.minecraftskins.com/uploads/preview-skins/2023/04/13/seymour-skinner-21510965.png?v560",
+          "locked" : false
+      },
+    
+    {
+          "preview": "https://www.minecraftskins.com/uploads/preview-skins/2023/04/15/amanee-amaaneee-21517732.png?v560",
+          "texture": "https://www.minecraftskins.com/uploads/preview-skins/2023/04/15/amanee-amaaneee-21517732.png?v560",
+          "locked" : false
+      },
+    
+    {
+          "preview": "https://www.minecraftskins.com/uploads/preview-skins/2023/03/28/homer-----i-21463201.png?v560",
+          "texture": "https://www.minecraftskins.com/uploads/preview-skins/2023/03/28/homer-----i-21463201.png?v560",
+          "locked" : false
+      },
+    
+    {
+          "preview": "https://www.minecraftskins.com/uploads/preview-skins/2023/04/18/litsplick---fs-21527525.png?v560",
+          "texture": "https://www.minecraftskins.com/uploads/preview-skins/2023/04/18/litsplick---fs-21527525.png?v560",
+          "locked" : false
+      },
+    
+    {
+          "preview": "https://www.minecraftskins.com/uploads/preview-skins/2023/04/13/rascal-does-not-dream-of-harvey-senpai-21513094.png?v560",
+          "texture": "https://www.minecraftskins.com/uploads/preview-skins/2023/04/13/rascal-does-not-dream-of-harvey-senpai-21513094.png?v560",
+          "locked" : false
+      },
+   
+    {
+          "preview": "https://www.minecraftskins.com/uploads/preview-skins/2022/12/31/corrupted-huggy-wuggy--phase-1--21193192.png",
+          "texture": "https://www.minecraftskins.com/uploads/skins/2022/12/31/corrupted-huggy-wuggy--phase-1--21193192.png",
+          "locked" : false
+      },
+      {
+          "preview": "https://www.minecraftskins.com/uploads/preview-skins/2023/01/15/g-r-e-e-n---r-e-f-l-e-c-t-i-o-n-21240247.png",
+          "texture": "https://www.minecraftskins.com/uploads/skins/2023/01/15/g-r-e-e-n---r-e-f-l-e-c-t-i-o-n-21240247.png",
+          "locked" : false
+      },
+       {
+          "preview": "https://www.minecraftskins.com/uploads/preview-skins/2023/01/15/among-us-hoody-but-duck-themed---duckiezog-21238194.png",
+          "texture": "https://www.minecraftskins.com/uploads/skins/2023/01/15/among-us-hoody-but-duck-themed---duckiezog-21238194.png",
+          "locked" : false
+      },
+       {
+          "preview": "https://www.minecraftskins.com/uploads/preview-skins/2023/01/13/spider-man--upgraded--fixed-21233255.png",
+          "texture": "https://www.minecraftskins.com/uploads/skins/2023/01/13/spider-man--upgraded--fixed-21233255.png",
+          "locked" : false
+      },
+       {
+          "preview": "https://www.minecraftskins.com/uploads/preview-skins/2023/01/15/-little-fires--21240825.png",
+          "texture": "https://www.minecraftskins.com/uploads/skins/2023/01/15/-little-fires--21240825.png",
+          "locked" : false
+      },
+      {
+          "preview": "https://www.minecraftskins.com/uploads/preview-skins/2023/01/14/superman-21236510.png",
+          "texture": "https://www.minecraftskins.com/uploads/skins/2023/01/14/superman-21236510.png",
+          "locked" : false
+      },
+      {
+          "preview": "https://www.minecraftskins.com/uploads/preview-skins/2023/01/13/batman-21232388.png",
+          "texture": "https://www.minecraftskins.com/uploads/skins/2023/01/13/batman-21232388.png",
+          "locked" : true
+      },
+      {
+          "preview": "https://www.minecraftskins.com/uploads/preview-skins/2023/01/04/patrik-batman-21204990.png",
+          "texture": "https://www.minecraftskins.com/uploads/skins/2023/01/04/patrik-batman-21204990.png",
+          "locked" : true
+      },
+      {
+          "preview": "https://www.minecraftskins.com/uploads/preview-skins/2023/01/13/magma-lava-spirit-21233659.png",
+          "texture": "https://www.minecraftskins.com/uploads/skins/2023/01/13/magma-lava-spirit-21233659.png",
+          "locked" : true
+      },
+      {
+          "preview": "https://www.minecraftskins.com/uploads/preview-skins/2023/01/15/creeper-girl-21241079.png",
+          "texture": "https://www.minecraftskins.com/uploads/skins/2023/01/15/creeper-girl-21241079.png",
+          "locked" : true
+      },
+      {
+          "preview": "https://www.minecraftskins.com/uploads/preview-skins/2023/01/15/bee-person--21241075.png",
+          "texture": "https://www.minecraftskins.com/uploads/skins/2023/01/15/bee-person--21241075.png",
+          "locked" : true
+      },
+      {
+          "preview": "https://www.minecraftskins.com/uploads/preview-skins/2023/01/15/blue-boy-21240831.png",
+          "texture": "https://www.minecraftskins.com/uploads/skins/2023/01/15/blue-boy-21240831.png",
+          "locked" : true
+      }
+      
+      
+      ],
+  
+  "AppsPromote": [
+    {
+      "name": "Minecraft PE skyblock",
+      "packageName": "com.andiqwer.skyblock_maps",
+      "icon": "https://play-lh.googleusercontent.com/_KVgzJrTgMAgtOVMWUtOTbJjFv2H8BVAzIWX73mTkZglztux4F0yHO0OH_L7auFf3A=w240-h480",
+      "download": "+100 K"
+    },
+    {
+      "name": "Houses Maps",
+      "packageName": "com.andiqwer.house_maps",
+      "icon": "https://play-lh.googleusercontent.com/bQsbA_haB-0iEsxZ6MdgH0fjtsmlQkMiSusNLybYrevbC1O6ksLhlqfL9MTCqOUWnEo=w240-h480",
+      "download": "+500 K"
+    },
+    {
+      "name": "Guns Mods",
+      "packageName": "com.AndiQwer.GunMods",
+      "icon": "https://play-lh.googleusercontent.com/LeOVlNtItLA87uqKnjvo0hjBEOLdMKNheAOYI40qiOERuFXfZLZ2LQ5U6bk9rbfj7pPC=w240-h480",
+      "download": "+1 Million"
+    },
+    {
+      "name": "Cars Mods",
+      "packageName": "com.andiqwer.car_mods",
+      "icon": "https://play-lh.googleusercontent.com/lnbR00xtm3QcQWCUf9N9i4fOZBK6M0AuczactBbOFUuo2DbRU3VS0x9yUqTvVtnFyg=w240-h480",
+      "download": "+50 Million"
+    },
+    {
+      "name": "Block Craft 3D",
+      "packageName": "com.fungames.blockcraft",
+      "icon": "https://play-lh.googleusercontent.com/YOtXpivwnbn07ufEnrcX6W--s4FOK6qVMmxvhKkYZhQZzgjxAzy10DgvwlHhYzbHaF1Q",
+      "download": "+100 Million"
+    }
+  ]
+}
